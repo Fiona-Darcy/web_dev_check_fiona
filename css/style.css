@@ -130,6 +130,25 @@ body {
     padding: 12px;
 }
 
+.contact-container {
+    background: #29326a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 0;
+}.contact-content {
+    color: #F1F1F1;
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+}
+
+
+
 .projects-item {
     
 }
